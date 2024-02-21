@@ -1,16 +1,23 @@
 # todo_app
+ ![Static Badge](https://img.shields.io/badge/Dart_Analyze-Pass-blue) ![Static Badge](https://img.shields.io/badge/License-MIT-purple?link=https%3A%2F%2Fgithub.com%2Fcodebox168%2Fmime_type_ext%2Fblob%2Fmain%2FLICENSE)
 
-A new Flutter project.
+A project for vtech challenge.
+Developer [Kem Emsothea](https://www.linkedin.com/in/kem-emsothea)
 
-## Getting Started
+## Project features
+  - Add todo
+  - Edit todo
+  - Remove todo
+  - Mark as complete todo
+  - Mark as incomplete todo
+  - Unique todo title
+  - Valid todo title
 
-This project is a starting point for a Flutter application.
+## Project dependencies
+This project depend on:
+  - equatable
+  - dartz
+  - flutter_bloc
+  - get_it
+  - sqflite
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
